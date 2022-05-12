@@ -1,2 +1,2 @@
-# customer-training-test
-This is a test repository for customer training files
+# Accelerating Applications with the Vitis Unified Software Environment
+
